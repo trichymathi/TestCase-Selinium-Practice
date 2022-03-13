@@ -99,7 +99,7 @@ public class AssignTheIncident {
 		if(text2.equals(text4)) {
 			System.out.println("INCCIDENT IS ASSIGNED TO :"+text2);
 		}else {
-			System.out.println("INCCIDENT IS ASSIGNED TO :"+text2);
+			System.out.println("INCCIDENT IS NOT ASSIGNED TO :"+text2);
 		}
 		
 		Thread.sleep(2000);
